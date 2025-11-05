@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" class="header">
 
 # 💀 Hey, I'm HEMANTH JS
 
@@ -10,8 +10,10 @@
 
 ---
 
+<div class="about-me">
+
 ## MY WEB : https://hemanth-js.github.io/My_Portfolio/
- 
+
 🔥 About Me
 
 ```typescript
@@ -31,10 +33,32 @@ const developer = {
 - 🌱 Currently exploring backend development
 - 💬 Ask me about web development, APIs, or system design
 
+</div>
+
 
 ---
 
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.header { animation: fadeIn 1s ease-out; }
+.about-me { animation: fadeIn 1.2s ease-out 0.3s both; }
+.tech-stack { animation: fadeIn 1.5s ease-out 0.6s both; }
+.github-stats { animation: slideInLeft 1.5s ease-out 0.9s both; }
+.contribution-graph { animation: fadeIn 1.5s ease-out 1.2s both; }
+.dev-quote { animation: slideInLeft 1.5s ease-out 1.5s both; }
+.connect { animation: fadeIn 1.5s ease-out 1.8s both; }
+</style>
+
 ## 🛠️ Tech Stack
+
+<div class="tech-stack">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,7 +84,11 @@ const developer = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
 ---
+
+<div class="github-stats">
 
 ## 📊 GitHub Stats
 
@@ -77,7 +105,9 @@ const developer = {
 
 </div>
 
+</div>
 
+<div class="contribution-graph">
 
 ## 📈 Contribution Graph
 
@@ -87,7 +117,11 @@ const developer = {
 
 </div>
 
+</div>
+
 ---
+
+<div class="dev-quote">
 
 ## 💭 Dev Quote
 
@@ -97,7 +131,11 @@ const developer = {
 
 </div>
 
+</div>
+
 ---
+
+<div class="connect">
 
 ## 🤝 Connect With Me
 
@@ -105,6 +143,8 @@ const developer = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemanth-js.github.io/My_Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthjs1226@gmail.com)
+
+</div>
 
 </div>
 
