@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 Hey, I'm [HEMANTH JS]
+# 💀 Hey, I'm HEMANTH JS
 
 ### Student | Maverick 
 
@@ -17,7 +17,7 @@ const developer = {
     name: "HEMANTH J S",
     role: "Full Stack Developer",
     location: "Bengaluru, India",
-    code: ["JavaScript", "TypeScript", "Python", "Go"],
+    code: ["JavaScript", "Python", "C", "C++", "Java", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "startups", "coffee"],
     currentFocus: "Building scalable applications",
     funFact: "I use AI more than my brain and I'm not ashamed"
@@ -56,6 +56,7 @@ const developer = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -63,7 +64,7 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanth-js&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanth-js&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-js&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
