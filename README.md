@@ -38,24 +38,6 @@ const developer = {
 
 ---
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-@keyframes slideInLeft {
-  from { opacity: 0; transform: translateX(-30px); }
-  to { opacity: 1; transform: translateX(0); }
-}
-.header { animation: fadeIn 1s ease-out; }
-.about-me { animation: fadeIn 1.2s ease-out 0.3s both; }
-.tech-stack { animation: fadeIn 1.5s ease-out 0.6s both; }
-.github-stats { animation: slideInLeft 1.5s ease-out 0.9s both; }
-.contribution-graph { animation: fadeIn 1.5s ease-out 1.2s both; }
-.dev-quote { animation: slideInLeft 1.5s ease-out 1.5s both; }
-.connect { animation: fadeIn 1.5s ease-out 1.8s both; }
-</style>
-
 ## 🛠️ Tech Stack
 
 <div class="tech-stack">
